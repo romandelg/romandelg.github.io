@@ -37,6 +37,9 @@ ssdsds
 ## 42 inch records
 
 
+multipotentialite
+
+me and github
 
 TALK ABOUT (and learn xd) OPEN SOURCE
 
