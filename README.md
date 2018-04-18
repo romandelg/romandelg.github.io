@@ -1,6 +1,17 @@
 # HELLO
+My name is Román Delgado, and I am a young and passionate designer and developer. I know this website doesn't showcase it, but I had to make it this simple because I am very busy working on my projects.
 
-# What I do
+
+# What I can do
+## Graphic Design
+## Photography
+## Filmaking
+## Music production
+## DJ
+## Web design
+## Coding
+## Game Developing
+
 
 
 # Projects
