@@ -4,18 +4,41 @@ My name is Román Delgado, and I am a young and passionate designer and develope
 
 # What I can do
 ## Graphic Design
+I can design anything from logos to posters with Photoshop, Ilustrator, and Affinity Design
+## 3D
+fusion , blendr
+
 ## Photography
-## Filmaking
+I also have experience working with DSLRs and photoshop
+
+## Video editing
+Premiere, After Effects, Final Cut Pro
+
 ## Music production
+Ableton
+
 ## DJ
+ssdsds
 ## Web design
 ## Coding
 ## Game Developing
+## Product design
+## Concept Art
 
 
 
 # Projects
+## Green Onion Studios
 
+## EtherWeld Motorsports
+
+## Diode DJ
+
+## 42 inch records
+
+
+
+TALK ABOUT (and learn xd) OPEN SOURCE
 
 
 # Want to work together?
